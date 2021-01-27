@@ -1,2 +1,7 @@
 # Portfolio
-Data Science &amp; Research Projects Portfolio
+Data Science &; Research Projects Portfolio
+
+
+
+
+
